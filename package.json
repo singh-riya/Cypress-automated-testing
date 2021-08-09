@@ -1,0 +1,20 @@
+{
+  "name": "learning-cypress",
+  "version": "1.0.0",
+  "description": "Learning Cypress",
+  "main": "index.js",
+  "scripts": {
+    "start": ""
+  },
+  "keywords": [
+    "cypress",
+    "automation",
+    "testing"
+  ],
+  "author": "Riya Singh",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "7.4.0",
+    "cypress-real-events": "^1.5.0"
+  }
+}
